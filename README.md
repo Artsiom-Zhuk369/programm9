@@ -3,7 +3,7 @@
         <title>Слесарьтехника</title>
     </head>
     <body>
-        <p align="center"><font size="1000" color="cyan" face="Arial">Тема 5:Рубка</font></p>
+        <p align="center"><font size="1000" color="cyan" face="Arial">Тема 5:Правка, Гибка Металла</font></p>
         <style>
            body{
             background:rgb(116, 111, 42);
